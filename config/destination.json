@@ -1,0 +1,12 @@
+[
+{
+    "id": "dest1",
+    "protocol": "scp",
+    "addresss": "leg_ahmedi@sandbox-ahmedi.pm.dev.sav.nap"
+},
+{
+    "id": "dest2",
+    "protocol": "http",
+    "addresss": "leg_ahmedi@sandbox-ahmedi.pm.dev.sav.nap"
+}
+]
